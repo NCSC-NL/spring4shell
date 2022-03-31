@@ -2,4 +2,6 @@
 
 | Supplier | Product | Version (see Status) | Status Spring4shell | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:------|------:|
-|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|
+|IGEL|Universal Management Suite||Vulnerable|spring-core-5.3.15| |
+|MuleSoft|Mule4A||Vulnerable|spring-core-5.1.6| |
+|Ahsay|AhsayOBM||Vulnerable|spring-core-5.3.7| |
