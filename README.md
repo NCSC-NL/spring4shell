@@ -8,8 +8,8 @@ Operational information regarding the Spring4Shell vulnerability in the Spring C
 | Directory                          | Purpose |
 |:-----------------------------------|:--------|
 | [hunting](hunting/README.md)       | Contains info regarding hunting for exploitation |
-| [iocs](iocs/README.md)             | Contains any Indicators of Compromise, such as scanning IPs, etc |
-| [detection & mitigation](detection_mitigation/README.md)   | Contains info regarding detection and mitigation, such as regexes for detecting scanning activity and more |
+| [detection](detection/README.md)             | Contains any Indicators of Compromise, such as scanning IPs, etc |
+| [mitigation](mitigation/README.md)   | Contains info regarding mitigation measures |
 | [scanning](scanning/README.md)     | Contains references to methods and tooling used for scanning for the Spring4shell vulnerability |
 | [software](software/README.md)     | Contains a list of known vulnerable and not vulnerable software |
 | [tools](tools/README.md)           | Contains a list of tools for automatically parsing info on this repo |
