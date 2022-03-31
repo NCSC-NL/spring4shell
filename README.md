@@ -6,6 +6,7 @@ Operational information regarding the Spring4Shell vulnerability in the Spring C
 ## Repository contents
 
 | Directory                          | Purpose |
+|:-----------------------------------|:--------|
 | [hunting](hunting/README.md)       | Contains info regarding hunting for exploitation |
 | [iocs](iocs/README.md)             | Contains any Indicators of Compromise, such as scanning IPs, etc |
 | [detection & mitigation](detection_mitigation/README.md)   | Contains info regarding detection and mitigation, such as regexes for detecting scanning activity and more |
