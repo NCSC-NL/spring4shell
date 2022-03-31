@@ -1,5 +1,5 @@
 # spring4shell
-Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework.
+Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965) in the Spring Core Framework.
 
 * [NCSC-NL advisory](https://www.ncsc.nl/actueel/advisory?id=NCSC-2022-0221)
 
