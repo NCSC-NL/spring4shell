@@ -6,4 +6,4 @@ This page contains an overview of any Indicators of Compromise regarding the Spr
 
 | Note     | Links |
 |:----------------|:----------------|
-|Placeholder|Link|
+|Neo23x0s detection yara rules|[https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)|
