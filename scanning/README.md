@@ -5,5 +5,6 @@ This page contains an overview of any scanning software regarding the Spring4she
 
 | Note     | Links |
 |:----------------|:----------------|
+|jfrog Spring tools|[https://github.com/jfrog/jfrog-spring-tools](https://github.com/jfrog/jfrog-spring-tools)|
 |Hilko Bengen - Local Spring vulnerability scanner|[https://github.com/hillu/local-spring-vuln-scanner](https://github.com/hillu/local-spring-vuln-scanner)|
 |Remco Verhoef - Spring4shell scanner|[https://github.com/dtact/spring4shell-scanner](https://github.com/dtact/spring4shell-scanner)|
