@@ -5,5 +5,5 @@ This page contains an overview of any scanning software regarding the Spring4she
 
 | Note     | Links |
 |:----------------|:----------------|
-|DTACT Spring4shell scanner|[https://github.com/dtact/spring4shell-scanner](https://github.com/dtact/spring4shell-scanner)|
-|Local Spring vulnerability scanner|[https://github.com/hillu/local-spring-vuln-scanner](https://github.com/hillu/local-spring-vuln-scanner)|
+|Hilko Bengen - Local Spring vulnerability scanner|[https://github.com/hillu/local-spring-vuln-scanner](https://github.com/hillu/local-spring-vuln-scanner)|
+|Remco Verhoef - Spring4shell scanner|[https://github.com/dtact/spring4shell-scanner](https://github.com/dtact/spring4shell-scanner)|
