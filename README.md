@@ -36,6 +36,8 @@ This table contains an overview of local scanning tools regarding the Spring4she
 |Remco Verhoef - Spring4shell scanner|[https://github.com/dtact/spring4shell-scanner](https://github.com/dtact/spring4shell-scanner)|
 |Tenable Nessus Spring4shell vulnerability scanner|[https://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability](https://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability)|
 
+The following IPs were observed as scanning IPs for this vulnerability: [Scanning IPs](https://www.greynoise.io/viz/tag/spring-core-rce-attempt)
+
 Next to scanning tools, the following detection rulesets and queries can help to find exploitation/webshells in your network.
 
 | Note     | Links |
