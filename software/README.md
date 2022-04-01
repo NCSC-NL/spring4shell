@@ -13,4 +13,5 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
-
+|Atlassian|Jira||Uses Spring Framework|under investigation|||
+|Atlassian|Confluence||Uses Spring Framework|under investigation|||
