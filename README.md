@@ -30,11 +30,12 @@ This table contains an overview of local scanning tools regarding the Spring4she
 |Remco Verhoef - Spring4shell scanner|[https://github.com/dtact/spring4shell-scanner](https://github.com/dtact/spring4shell-scanner)|
 |Tenable Nessus Spring4shell vulnerability scanner|[https://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability](https://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability)|
 
-Next to scanning tools, the following detection rulesets can help to find exploitation/webshells in your network.
+Next to scanning tools, the following detection rulesets and queries can help to find exploitation/webshells in your network.
 
 | Note     | Links |
 |:----------------|:----------------|
 |Neo23x0s detection yara rules|[https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)|
+|West-wind Splunk queries|[https://github.com/west-wind/Spring4Shell-Detection](https://github.com/west-wind/Spring4Shell-Detection)|
 
 ## Contributions welcome
 
