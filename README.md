@@ -12,7 +12,7 @@ Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965
 
 ## Detection
 
-This table contains an overview of any scanning tools regarding the Spring4shell vulnerability.
+This table contains an overview of local scanning tools regarding the Spring4shell vulnerability and helps to find vulnerable software.
 
 **NCSC-NL has not verified the scanning tools listed below and therefore cannot guarantee the validity of said tools. However NCSC-NL strives to provide scanning tools from reliable sources.**
 
@@ -21,6 +21,12 @@ This table contains an overview of any scanning tools regarding the Spring4shell
 |jfrog Spring tools|[https://github.com/jfrog/jfrog-spring-tools](https://github.com/jfrog/jfrog-spring-tools)|
 |Hilko Bengen - Local Spring vulnerability scanner|[https://github.com/hillu/local-spring-vuln-scanner](https://github.com/hillu/local-spring-vuln-scanner)|
 |Remco Verhoef - Spring4shell scanner|[https://github.com/dtact/spring4shell-scanner](https://github.com/dtact/spring4shell-scanner)|
+
+Next to scanning tools, the following detection rulesets can help to find exploitation/webshells in your network.
+
+| Note     | Links |
+|:----------------|:----------------|
+|Neo23x0s detection yara rules|[https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)|
 
 ## Contributions welcome
 
