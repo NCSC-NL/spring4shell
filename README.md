@@ -7,6 +7,7 @@ Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965
 
 - README.md: contains general information and detection and mitigation measures
 - [software/README.md](software/README.md): contains a list of known vulnerable and not vulnerable software. 
+
 **NCSC-NL has published a HIGH/HIGH advisory for the Spring4shell vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the number of expected updates we have created a list of known vulnerable software in the software directory.**
 
 ## Detection
