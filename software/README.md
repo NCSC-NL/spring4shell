@@ -15,3 +15,6 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|Under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
 |Atlassian|Jira||Uses Spring Framework|Under investigation||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Atlassian|Confluence||Uses Spring Framework|Under investigation||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
+|PagerDuty|Rundeck||Uses Spring Framework|Under investigation|||
+|F5|All product||Not applicable|Not Vulnerable||https://support.f5.com/csp/article/K11510688|
+|Trend Micro |All product||Unknown|Under investigation||https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US|
