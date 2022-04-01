@@ -8,5 +8,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
-
+|IGEL|Universal Management Suite||spring-core-5.3.15|Vulnerable||
+|MuleSoft|Mule4A||spring-core-5.1.6|Vulnerable|| 
+|Ahsay|AhsayOBM||spring-core-5.3.7|Vulnerable|| 
  
