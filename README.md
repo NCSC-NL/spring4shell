@@ -60,8 +60,8 @@ Next to scanning tools, the following detection rulesets and queries can help to
 
 | Note     | Links |
 |:----------------|:----------------|
-|Neo23x0s detection yara rules|[https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)|
-|West-wind Splunk queries|[https://github.com/west-wind/Spring4Shell-Detection](https://github.com/west-wind/Spring4Shell-Detection)|
+|Yara rules - Neo23x0|[https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)|
+|Splunk queries - West-wind|[https://github.com/west-wind/Spring4Shell-Detection](https://github.com/west-wind/Spring4Shell-Detection)|
 
 ## Contributions welcome
 
