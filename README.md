@@ -27,6 +27,7 @@ Patches for the following packages are available through [Spring.io](https://spr
 | Fortinet | FortiADC | IPS | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
 | Fortinet | FortiProxy | IPS | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
 | Fortinet | FortiAnalyzer | Outbreak Detection | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
+| PaloAltoNetworks | Next-Generation Firewall | IPS | https://unit42.paloaltonetworks.com/cve-2022-22965-springshell/ |
 
 ## Detection
 
