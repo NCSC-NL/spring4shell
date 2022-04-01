@@ -8,5 +8,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
+|Fortinet|Fortisiem||Uses Spring Framework|Not Vulnerable|||
+|GeoServer|Geoserver||Uses Spring Framework|Not Vulnerable||https://geoserver.org/announcements/vulnerability/2022/04/01/spring.html|
 
  
