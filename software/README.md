@@ -4,5 +4,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 
 | Supplier | Product | Version | Status Spring4shell | Confirmed / under investigation / not affected | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:--------------------:|:------|------:|
-|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|
-
+|Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
+|Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
+|Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
+ 
