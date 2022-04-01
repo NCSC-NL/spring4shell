@@ -19,3 +19,4 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Trend Micro |All product||Unknown|Under investigation||https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US|
+|Alphatron Medical|Twiin gateways|Not applicable|Uses Spring Framework|Under investigation|||
