@@ -5,18 +5,20 @@ Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965
 
 ## Repository contents
 
-| Directory                          | Purpose |
-|:-----------------------------------|:--------|
-| [hunting](hunting/README.md)       | Contains info regarding hunting for exploitation |
-| [detection](detection/README.md)             | Contains any Indicators of Compromise, such as scanning IPs, etc |
-| [mitigation](mitigation/README.md)   | Contains info regarding mitigation measures |
-| [scanning](scanning/README.md)     | Contains references to methods and tooling used for scanning for the Spring4shell vulnerability |
-| [software](software/README.md)     | Contains a list of known vulnerable and not vulnerable software |
-| [tools](tools/README.md)           | Contains a list of tools for automatically parsing info on this repo |
+- README.md: contains general information and detection and mitigation measures
+- [software/README.md](software/README.md): contains a list of known vulnerable and not vulnerable software. **NCSC-NL has published a HIGH/HIGH advisory for the Spring4shell vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the number of expected updates we have created a list of known vulnerable software in the software directory.**
 
-**Please note that these directories are not complete, and are currently being expanded.**
+## Detection
 
-**NCSC-NL has published a HIGH/HIGH advisory for the Spring4shell vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
+This table contains an overview of any scanning tools regarding the Spring4shell vulnerability.
+
+**NCSC-NL has not verified the scanning tools listed below and therefore cannot guarantee the validity of said tools. However NCSC-NL strives to provide scanning tools from reliable sources.**
+
+| Note     | Links |
+|:----------------|:----------------|
+|jfrog Spring tools|[https://github.com/jfrog/jfrog-spring-tools](https://github.com/jfrog/jfrog-spring-tools)|
+|Hilko Bengen - Local Spring vulnerability scanner|[https://github.com/hillu/local-spring-vuln-scanner](https://github.com/hillu/local-spring-vuln-scanner)|
+|Remco Verhoef - Spring4shell scanner|[https://github.com/dtact/spring4shell-scanner](https://github.com/dtact/spring4shell-scanner)|
 
 ## Contributions welcome
 
