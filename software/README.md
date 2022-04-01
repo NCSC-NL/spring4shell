@@ -12,6 +12,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|Under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
+|Blueriq|Blueriq||Not applicable|Vulnerable||https://www.blueriq.com/actueel/maatregelen-cve22950-22963-22965|
 |Atlassian|Jira||Uses Spring Framework|Under investigation||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Atlassian|Confluence||Uses Spring Framework|Under investigation||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |PagerDuty|Rundeck||Uses Spring Framework|Under investigation|||
