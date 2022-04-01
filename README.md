@@ -25,6 +25,7 @@ Patches re available through [Spring.io](https://spring.io/blog/2022/03/31/sprin
 | Cisco | AMP | Endpoint | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Secure Email | Mail protection | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Secure Firewall | IPS | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
+| Cisco | SNORT (SID 30790-30793, 59388, and 59416) | IDS/IPS | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Malware Analytics | Malware Analysis | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Secure Web Appliance | WAF | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cloudflare | WAF | WAF | https://blog.cloudflare.com/waf-mitigations-sping4shell/ |
