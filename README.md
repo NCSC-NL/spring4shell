@@ -22,8 +22,13 @@ Patches re available through [Spring.io](https://spring.io/blog/2022/03/31/sprin
 
 | Vendor | Product | Type | Link |
 |:----------------|:----------------|:----------------|:----------------|
-| F5 | Big-IP | WAF | https://support.f5.com/csp/article/K24912123 |
+| Cisco | AMP | Endpoint | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
+| Cisco | Secure Email | Mail protection | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
+| Cisco | Secure Firewall | IPS | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
+| Cisco | Malware Analytics | Malware Analysis | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
+| Cisco | Secure Web Appliance | WAF | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cloudflare | WAF | WAF | https://blog.cloudflare.com/waf-mitigations-sping4shell/ |
+| F5 | Big-IP | WAF | https://support.f5.com/csp/article/K24912123 
 | Fortinet | FortiGate | IPS | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability|
 | Fortinet | FortiSASE | IPS | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
 | Fortinet | FortiADC | IPS | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
