@@ -26,7 +26,7 @@ Patches for the following packages are available through [Spring.io](https://spr
 | Fortinet | FortiSASE | IPS | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
 | Fortinet | FortiADC | IPS | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
 | Fortinet | FortiProxy | IPS | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
-| Fortinet | FortiAnalyzer | Outbreak Detection | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability3 |
+| Fortinet | FortiAnalyzer | Outbreak Detection | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
 
 ## Detection
 
