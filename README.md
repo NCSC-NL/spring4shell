@@ -9,11 +9,11 @@ Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965
 - README.md: contains general information and detection and mitigation measures
 - [software/README.md](software/README.md): contains a list of known vulnerable and not vulnerable software. 
 
-**NCSC-NL has published a HIGH/HIGH advisory for the Spring4shell vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the number of expected updates we have created a list of known vulnerable software in the software directory.**
+**NCSC-NL has published a HIGH/HIGH advisory for the Spring4shell vulnerability. Normally we would update a HIGH/HIGH advisory for vulnerable software packages, however due to the expected number of updates we have created a list of known vulnerable software in the software directory.**
 
 ## Mitigation measures
 
-Patches for the following packages are available through [Spring.io](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement)
+Patches for the following packages are available through [Spring.io](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement):
 - Spring Framework versions 5.3.18 and 5.2.20
 - Spring Boot versions 2.5.12 and 2.6.6
 
