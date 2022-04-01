@@ -4,6 +4,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 
 | Supplier | Product | Version | Status Spring4shell | Confirmed vulnerable / under investigation / not vulnerable | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:--------------------:|:------|------:|
+|Alphatron Medical|Twiin gateways|Not applicable|Uses Spring Framework|Under investigation|||
 |Atlassian|Confluence||Uses Spring Framework|Under investigation||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Atlassian|Jira||Uses Spring Framework|Under investigation||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Blueriq|Blueriq||Not applicable|Vulnerable||https://www.blueriq.com/actueel/maatregelen-cve22950-22963-22965|
@@ -19,4 +20,4 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Trend Micro |All product||Unknown|Under investigation||https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US|
-|Alphatron Medical|Twiin gateways|Not applicable|Uses Spring Framework|Under investigation|||
+
