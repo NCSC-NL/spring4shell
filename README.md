@@ -22,6 +22,7 @@ Patches for the following packages are available through [Spring.io](https://spr
 | Vendor | Product | Type | Link |
 |:----------------|:----------------|:----------------|:----------------|
 | F5 | Big-IP | WAF | https://support.f5.com/csp/article/K24912123 |
+| Cloudflare | WAF | WAF | https://blog.cloudflare.com/waf-mitigations-sping4shell/ |
 
 ## Detection
 
