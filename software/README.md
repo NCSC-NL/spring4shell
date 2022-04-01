@@ -2,7 +2,7 @@
 
 This page contains an overview of software (un)affected by the Spring4shell vulnerabilities. NCSC-NL and partners are attempting to maintain a list of all known vulnerable and not vulnerable software. Listed software is paired with specific information regarding which version contains the security fixes and which software still requires fixes. Please note that this vulnerability may also occur in custom software developed within your organisation. These occurrences are not registered in this overview.
 
-| Supplier | Product | Version | Status Spring4shell | Notes | Links |
+| Supplier | Product | Version | Status Spring4shell | Confirmed / under investigation / not affected | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:------|------:|
-|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|
+|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|Placeholder|
 
