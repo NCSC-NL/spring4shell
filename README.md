@@ -13,7 +13,7 @@ Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965
 
 ## Mitigation measures
 
-Patches re available through [Spring.io](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement):
+Patches are available through [Spring.io](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement):
 - Spring Framework versions 5.3.18 and 5.2.20
 - Spring Boot versions 2.5.12 and 2.6.6
 - Tomcat versions 10.0.20, 9.0.62, and 8.5.78
@@ -42,7 +42,7 @@ Patches re available through [Spring.io](https://spring.io/blog/2022/03/31/sprin
 
 ## Detection
 
-This table contains an overview of local scanning tools regarding the Spring4shell vulnerability and helps to find vulnerable software.
+This table contains an overview of local and remote scanning tools regarding the Spring4shell vulnerability and helps to find vulnerable software.
 
 **NCSC-NL has not verified the scanning tools listed below and therefore cannot guarantee the validity of said tools. However NCSC-NL strives to provide scanning tools from reliable sources.**
 
