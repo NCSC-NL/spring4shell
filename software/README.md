@@ -67,4 +67,22 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Trend Micro |All product||Unknown|Under investigation||https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US|
+|Veritas|Backup Exec|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|Desktop Laptop Option|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|Enterprise Vault|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|Enterprise Vault cloud|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|NetBackup Recovery Vault|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|NetBackup SaaS Protection|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|Merge1|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|Quick Assist|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|Veritas Advanced Supervision|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|Veritas System Recovery|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|CloudPoint|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|Data Insight|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|eDiscovery|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|InfoScale VIOM|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|NetBackup|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|NetBackup IT Analytics (Previously APTARE)|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|NetBackup OpCenter|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
+|Veritas|VRP|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
 
