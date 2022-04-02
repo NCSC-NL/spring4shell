@@ -38,6 +38,7 @@ Patches re available through [Spring.io](https://spring.io/blog/2022/03/31/sprin
 | PaloAltoNetworks | Next-Generation Firewall | IPS | https://unit42.paloaltonetworks.com/cve-2022-22965-springshell/ |
 | Trend Micro | Cloud One | IPS | https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US |
 | Trend Micro | Deep Discovery Inspector | IDS/IPS | https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US |
+| Rapid7 | tCell | WAF | https://www.rapid7.com/blog/post/2022/03/30/spring4shell-zero-day-vulnerability-in-spring-framework/#april120223pmedt |
 
 ## Detection
 
