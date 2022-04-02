@@ -10,7 +10,54 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Blueriq|Blueriq||Not applicable|Vulnerable||https://www.blueriq.com/actueel/maatregelen-cve22950-22963-22965|
 |F5|All product||Not applicable|Under investigation||https://support.f5.com/csp/article/K11510688|
 |F5|NGINX (all products)||Not applicable|Not Vulnerable||https://support.f5.com/csp/article/K11510688|
-|Fortinet|Fortisiem||Uses Spring Framework|Not Vulnerable|||
+|Fortinet|FortiPortal|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiCASB|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAnalyzer-BigData|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiEDR|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiSOAR|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiEdge|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAIOps|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiLANCloud|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiPolicy|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiOS|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiManager|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAnalyzer|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiIsolator|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiMail|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiNDR|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiClientWindows|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiClientLinux|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiClientMac|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiClientEMS|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiClientAndroid|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiADC|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAuthenticator|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAP|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAP-C|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAP-S|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAP-U|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAP-W2|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiDeceptor|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiDDoS|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiDDoS-F|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiExtender|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiRecorder|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiSandbox|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiSIEM|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiTester|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiSwitch|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiVoiceEnterprise|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiWeb|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiWLC|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiWLM|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|Forticonnect|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiConverter|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiInsight|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiPentest|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiPlanner|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiPresence|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiAPCloud|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
+|Fortinet|FortiNAC|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
 |GeoServer|Geoserver||Uses Spring Framework|Not Vulnerable||https://geoserver.org/announcements/vulnerability/2022/04/01/spring.html|
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
