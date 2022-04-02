@@ -13,7 +13,7 @@ Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965
 
 ## Mitigation measures
 
-Patches re available through [Spring.io](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement):
+Patches are available through [Spring.io](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement):
 - Spring Framework versions 5.3.18 and 5.2.20
 - Spring Boot versions 2.5.12 and 2.6.6
 - Tomcat versions 10.0.20, 9.0.62, and 8.5.78
@@ -38,10 +38,11 @@ Patches re available through [Spring.io](https://spring.io/blog/2022/03/31/sprin
 | PaloAltoNetworks | Next-Generation Firewall | IPS | https://unit42.paloaltonetworks.com/cve-2022-22965-springshell/ |
 | Trend Micro | Cloud One | IPS | https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US |
 | Trend Micro | Deep Discovery Inspector | IDS/IPS | https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US |
+| Rapid7 | tCell | WAF | https://www.rapid7.com/blog/post/2022/03/30/spring4shell-zero-day-vulnerability-in-spring-framework/#april120223pmedt |
 
 ## Detection
 
-This table contains an overview of local scanning tools regarding the Spring4shell vulnerability and helps to find vulnerable software.
+This table contains an overview of local and remote scanning tools regarding the Spring4shell vulnerability and helps to find vulnerable software.
 
 **NCSC-NL has not verified the scanning tools listed below and therefore cannot guarantee the validity of said tools. However NCSC-NL strives to provide scanning tools from reliable sources.**
 
@@ -52,6 +53,8 @@ This table contains an overview of local scanning tools regarding the Spring4she
 |Remco Verhoef - Spring4shell scanner|[https://github.com/dtact/spring4shell-scanner](https://github.com/dtact/spring4shell-scanner)|
 |Tenable Nessus Spring4shell vulnerability scanner|[https://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability](https://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability)|
 |Qualys Scanner/Cloud Agent |[https://blog.qualys.com/vulnerabilities-threat-research/2022/03/31/spring-framework-zero-day-remote-code-execution-spring4shell-vulnerability](https://blog.qualys.com/vulnerabilities-threat-research/2022/03/31/spring-framework-zero-day-remote-code-execution-spring4shell-vulnerability)|
+|Rapid7 Nexpose/InsightVM | [https://docs.rapid7.com/insightvm/spring4shell/](https://docs.rapid7.com/insightvm/spring4shell/)|
+|Acunetix | [https://www.acunetix.com/blog/web-security-zone/critical-alert-spring4shell-rce-cve-2022-22965-in-spring/](https://www.acunetix.com/blog/web-security-zone/critical-alert-spring4shell-rce-cve-2022-22965-in-spring/)|
 |Nuclei Spring4shell template|[https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2022/CVE-2022-22965.yaml](https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2022/CVE-2022-22965.yaml)|
 
 The following IPs were observed as scanning IPs for this vulnerability: [Scanning IPs](https://www.greynoise.io/viz/tag/spring-core-rce-attempt)
