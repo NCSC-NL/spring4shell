@@ -52,7 +52,8 @@ This table contains an overview of local scanning tools regarding the Spring4she
 |Remco Verhoef - Spring4shell scanner|[https://github.com/dtact/spring4shell-scanner](https://github.com/dtact/spring4shell-scanner)|
 |Tenable Nessus Spring4shell vulnerability scanner|[https://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability](https://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability)|
 |Qualys Scanner/Cloud Agent |[https://blog.qualys.com/vulnerabilities-threat-research/2022/03/31/spring-framework-zero-day-remote-code-execution-spring4shell-vulnerability](https://blog.qualys.com/vulnerabilities-threat-research/2022/03/31/spring-framework-zero-day-remote-code-execution-spring4shell-vulnerability)|
-Rapid7 nexpose/insightVM | [https://docs.rapid7.com/insightvm/spring4shell/](https://docs.rapid7.com/insightvm/spring4shell/)|
+|Rapid7 Nexpose/InsightVM | [https://docs.rapid7.com/insightvm/spring4shell/](https://docs.rapid7.com/insightvm/spring4shell/)|
+|Acunetix | [https://www.acunetix.com/blog/web-security-zone/critical-alert-spring4shell-rce-cve-2022-22965-in-spring/](https://www.acunetix.com/blog/web-security-zone/critical-alert-spring4shell-rce-cve-2022-22965-in-spring/)|
 |Nuclei Spring4shell template|[https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2022/CVE-2022-22965.yaml](https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2022/CVE-2022-22965.yaml)|
 
 The following IPs were observed as scanning IPs for this vulnerability: [Scanning IPs](https://www.greynoise.io/viz/tag/spring-core-rce-attempt)
