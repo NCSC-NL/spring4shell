@@ -59,6 +59,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Fortinet|FortiAPCloud|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
 |Fortinet|FortiNAC|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
 |GeoServer|Geoserver||Uses Spring Framework|Not Vulnerable||https://geoserver.org/announcements/vulnerability/2022/04/01/spring.html|
+|Okta|Okta services||Not applicable|Not Vulnerable||https://sec.okta.com/articles/2022/04/oktas-response-cve-2022-22965-spring4shell|
 |Jamf|Pro||Uses Spring Framework|Vulnerable||https://community.jamf.com/t5/jamf-pro/spring4shell-vulnerability/td-p/262584|
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
