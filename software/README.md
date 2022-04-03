@@ -85,4 +85,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Veritas|NetBackup IT Analytics (Previously APTARE)|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
 |Veritas|NetBackup OpCenter|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
 |Veritas|VRP|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
-
+|VMware|Tanzu Application Service for VMs|2.11-2.13||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
+|VMware|Tanzu Application Service|2.10||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
+|VMware|Tanzu Operations Manager|2.8-2.10||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
+|VMware|TKGI|1.11-1.13||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
