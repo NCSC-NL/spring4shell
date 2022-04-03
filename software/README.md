@@ -92,3 +92,12 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |VMware|Tanzu Application Service|2.10||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
 |VMware|Tanzu Operations Manager|2.8-2.10||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
 |VMware|TKGI|1.11-1.13||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
+|Kofax|Kofax Communication Manager||Uses Spring Framework|Not Vulnerable||https://community.kofax.com/s/question/0D53m00006FG8NVCA1/communications-manager-release-announcements?language=en_US|
+|Kofax|Device Web Service||Uses Spring Framework|Not Vulnerable||https://community.kofax.com/s/question/0D53m00006w0My3CAE/controlsuite-release-announcements?language=en_US|
+|Kofax|Invoice Portal||Uses Spring Framework|Not vulnerable||https://community.kofax.com/s/question/0D53m00006FG8RtCAL/readsoft-release-announcements?language=en_US|
+|Kofax|RPA||Uses Spring Framework|Under investigation||https://community.kofax.com/s/question/0D53m00006FG8ThCAL/robotic-process-automation-release-announcements?language=en_US|
+|Kofax|MarkView||Uses Spring Framework|Not vulnerable||https://community.kofax.com/s/question/0D53m00006FG8QdCAL/markview-release-announcements|
+|Kofax|Printix||Uses Spring Framework|Not vulnerable||https://knowledge.kofax.com/General_Support/General_Troubleshooting/Kofax_products_and_Spring4Shell_vulnerability_information|
+|Kofax|SafeCom||Uses Spring Framework|Not vulnerable||https://knowledge.kofax.com/General_Support/General_Troubleshooting/Kofax_products_and_Spring4Shell_vulnerability_information|
+|Kofax|SignDoc||Uses Spring Framework|Under investigation||https://knowledge.kofax.com/General_Support/General_Troubleshooting/Kofax_products_and_Spring4Shell_vulnerability_information|
+|Kofax|Process Director for Accounts Payable||Uses Spring Framework|Not vulnerable||https://knowledge.kofax.com/General_Support/General_Troubleshooting/Kofax_products_and_Spring4Shell_vulnerability_information|
