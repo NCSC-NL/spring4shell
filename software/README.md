@@ -64,6 +64,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |PagerDuty|Rundeck||Uses Spring Framework|Under investigation|||
+|Pulse Secure|Ivanti Pulse Secure||Not applicable|Not Vulnerable||https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB45126/?kA13Z000000L3sW|
 |PTC|WindChill PDMLink|11.1 M020 to 12.1.0.0|Uses Spring Framework|Vulnerable||https://www.ptc.com/en/support/article/cs366379?language=en&posno=1&q=CVE-2022-22965&source=search|
 |PTC|FlexPLM|11.1 M010 to 12.0.3.0|Uses Spring Framework|Vulnerable||https://www.ptc.com/en/support/article/cs366379?language=en&posno=1&q=CVE-2022-22965&source=search|
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|Under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
