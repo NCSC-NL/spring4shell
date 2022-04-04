@@ -60,6 +60,7 @@ This table contains an overview of local and remote scanning tools regarding the
 |Acunetix | [https://www.acunetix.com/blog/web-security-zone/critical-alert-spring4shell-rce-cve-2022-22965-in-spring/](https://www.acunetix.com/blog/web-security-zone/critical-alert-spring4shell-rce-cve-2022-22965-in-spring/)|
 |Nuclei Spring4shell template|[https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2022/CVE-2022-22965.yaml](https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2022/CVE-2022-22965.yaml)|
 |Whitesource/spring4shell-detect | [https://github.com/whitesource/spring4shell-detect](https://github.com/whitesource/spring4shell-detect)|
+|onurgule/S4S-Scanner (Burp extension) | [https://github.com/onurgule/S4S-Scanner](https://github.com/onurgule/S4S-Scanner)|
 
 The following IPs were observed as scanning IPs for this vulnerability: [Scanning IPs](https://www.greynoise.io/viz/tag/spring-core-rce-attempt)
 
