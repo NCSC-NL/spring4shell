@@ -7,6 +7,11 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Alphatron Medical|Twiin gateways|Not applicable|Uses Spring Framework|Under investigation|||
 |Atlassian|Confluence||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Atlassian|Jira||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
+|Atlassian|Bamboo Server and Data Center||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
+|Atlassian|Bitbucket Server and Data Center||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
+|Atlassian|Crowd||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
+|Atlassian|Crucible||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
+|Atlassian|Fisheye||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Blueriq|Blueriq||Not applicable|Vulnerable||https://www.blueriq.com/actueel/maatregelen-cve22950-22963-22965|
 |F5|All product||Not applicable|Under investigation||https://support.f5.com/csp/article/K11510688|
 |F5|NGINX (all products)||Not applicable|Not Vulnerable||https://support.f5.com/csp/article/K11510688|
