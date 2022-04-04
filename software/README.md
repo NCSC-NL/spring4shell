@@ -24,10 +24,8 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Extreme Networks|ExtremeAnalytics||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|Fabric Manager||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|Guest and IoT Manager (GIM)||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
-
 |Extreme Networks|EXOS||User Spring framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|BOSS||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
-
 |Extreme Networks|EOS (S/K/7100)||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|WiNG||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|NSight||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
