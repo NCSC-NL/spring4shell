@@ -74,6 +74,7 @@ This table contains an overview of local and remote scanning tools regarding the
 |Whitesource/spring4shell-detect | [https://github.com/whitesource/spring4shell-detect](https://github.com/whitesource/spring4shell-detect)|
 |onurgule/S4S-Scanner (Burp extension) | [https://github.com/onurgule/S4S-Scanner](https://github.com/onurgule/S4S-Scanner)|
 |gpiechnik2 - Spring4shell scanner (nse script)|[https://github.com/gpiechnik2/nmap-spring4shell](https://github.com/gpiechnik2/nmap-spring4shell)|
+|OWASP ZAP Spring4shell rule|[https://www.zaproxy.org/blog/2022-04-04-spring4shell-detection-with-zap/](https://www.zaproxy.org/blog/2022-04-04-spring4shell-detection-with-zap/)|
 
 The following IPs were observed as scanning IPs for this vulnerability: [Scanning IPs](https://www.greynoise.io/viz/tag/spring-core-rce-attempt)
 
