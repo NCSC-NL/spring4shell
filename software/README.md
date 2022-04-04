@@ -105,6 +105,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Jamf|Pro||Uses Spring Framework|Vulnerable||https://community.jamf.com/t5/jamf-pro/spring4shell-vulnerability/td-p/262584|
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
+|McAfee|ePolicy|5.x|Not Vulnerable||https://kc.mcafee.com/corporate/index?page=content&id=KB95454&locale=en_US|
 |Microfocus|Vertica Server||Not applicable|Not Vulnerable||https://portal.microfocus.com/s/article/KM000005107?language=en_US|
 |NetApp|Multiple products||Uses Spring Framework|Under investigation||https://security.netapp.com/advisory/ntap-20220331-0011/|
 |NetApp|Multiple products||Uses Spring Framework|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220331-0011/|
