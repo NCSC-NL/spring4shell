@@ -14,10 +14,20 @@ Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965
 
 ## Mitigation measures
 
-Patches are available through [Spring.io](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement):
-- Spring Framework versions 5.3.18 and 5.2.20
-- Spring Boot versions 2.5.12 and 2.6.6
-- Tomcat versions 10.0.20, 9.0.62, and 8.5.78
+Determine if the Spring Core Framework is used in your network. Ensure that deployments of the Spring Core Framework are running a version equal to or greater than 5.3.18 or 5.2.20. Scanning tools are available to help find vulnerable software (Linux and Windows). You can find them below in the section "Detection". Note: the results of these tools do not guarantee that you do not have vulnerable systems. The requirements for the specific vulnerable scenario in the report published by Spring are as follows:
+- Running on JDK 9 or higher
+- Apache Tomcat as the Servlet container
+- Packaged as a traditional WAR and deployed in a standalone Tomcat instance. Typical Spring Boot deployments using an embedded Servlet container or reactive web server are not impacted.
+- spring-webmvc or spring-webflux dependency.
+- Spring Framework versions 5.3.0 to 5.3.17, 5.2.0 to 5.2.19, and older versions.
+
+Ask your suppliers if they use Spring Core Framework in their applications. Check for critical systems if your vendor has published a patch and deploy this as soon as possible.
+
+If updating is not possible in the short term, check the original [Spring.io advisory](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement) for possible workarounds. If you are unable to apply these workarounds, we advise to consider shutting down the system until a patch becomes available.
+
+This GitHub page contains a list which is kept up-to-date by NCSC-NL. It can provide you with information about which vendors have published a patch. However, we advise you to monitor information provided by your software vendors as well.
+- Check your logs, vulnerable systems and systems that have already been patched for signs of compromise.
+- Monitor future updates on Spring4Shell.
 
 ###  Mitigation by vendors
 
