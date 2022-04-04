@@ -13,6 +13,44 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Atlassian|Crucible||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Atlassian|Fisheye||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Blueriq|Blueriq||Not applicable|Vulnerable||https://www.blueriq.com/actueel/maatregelen-cve22950-22963-22965|
+|Extreme Networks|VOSS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|SLX-OS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Network OS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Extreme Management Center (XMC)||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|XIQ-SE||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|NetIron OS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ExtremeControl||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ExtremeConnect||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ExtremeAnalytics||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Fabric Manager||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Guest and IoT Manager (GIM)||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+
+|Extreme Networks|EXOS||User Spring framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|BOSS||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+
+|Extreme Networks|EOS (S/K/7100)||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|WiNG||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|NSight||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ExtremeWireless||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ExtremeCloud IQ||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|IQVA||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|VGVA||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|HiveManager Classic||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|IQEngine||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ExtremeCloud A3||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Traffic Sensor||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Extreme Campus Controller||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Extreme AirDefense||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ExtremeLocation||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ExtremeGuest (On-Premises)||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ExtremeGuest (Essentials)||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Extreme Fabric Automation (EFA)||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Extreme Visibility Manager (XVM)||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Ipanema SD-WAN Orchestrator||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Ipanema SALSA||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|Ipanema ip engine||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|200-series||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
+|Extreme Networks|ISW||Uses Spring Framework|Under investigation||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |F5|All product||Not applicable|Under investigation||https://support.f5.com/csp/article/K11510688|
 |F5|NGINX (all products)||Not applicable|Not Vulnerable||https://support.f5.com/csp/article/K11510688|
 |Fortinet|FortiPortal|Not applicable||Under investigation||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
