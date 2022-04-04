@@ -78,6 +78,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
+|Sonicwall|Multiple products||Not applicable|Not Vulnerable||https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0005|
 |Trend Micro |All product||Unknown|Under investigation||https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US|
 |Veritas|Backup Exec|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
 |Veritas|Desktop Laptop Option|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
