@@ -13,7 +13,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Atlassian|Crucible||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Atlassian|Fisheye||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Blueriq|Blueriq||Not applicable|Vulnerable||https://www.blueriq.com/actueel/maatregelen-cve22950-22963-22965|
-|Cisco|Multiple products||Not applicable|Under investigation|https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-java-spring-rce-Zx9GUc67|
+|Cisco|Multiple products||Not applicable|Under investigation||https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-java-spring-rce-Zx9GUc67|
 |Commvault|Multiple products||Not applicable|Not Vulnerable||https://documentation.commvault.com/v11/essential/146231_security_vulnerability_and_reporting.html#cv2022041-spring-framework|
 |Extreme Networks|VOSS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|SLX-OS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
@@ -106,7 +106,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Jamf|Pro||Uses Spring Framework|Vulnerable||https://community.jamf.com/t5/jamf-pro/spring4shell-vulnerability/td-p/262584|
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
-|McAfee|ePolicy|5.x|Not Vulnerable||https://kc.mcafee.com/corporate/index?page=content&id=KB95454&locale=en_US|
+|McAfee|ePolicy|5.x|Not Vulnerable|||https://kc.mcafee.com/corporate/index?page=content&id=KB95454&locale=en_US|
 |Microfocus|Vertica Server||Not applicable|Not Vulnerable||https://portal.microfocus.com/s/article/KM000005107?language=en_US|
 |NetApp|Multiple products||Uses Spring Framework|Under investigation||https://security.netapp.com/advisory/ntap-20220331-0011/|
 |NetApp|Multiple products||Uses Spring Framework|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220331-0011/|
