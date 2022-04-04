@@ -34,6 +34,7 @@ This GitHub page contains a list which is kept up-to-date by NCSC-NL. It can pro
 
 | Vendor | Product | Type | Link |
 |:----------------|:----------------|:----------------|:----------------|
+| Akamai | KSD | WAF | https://www.akamai.com/blog/security/spring-core-spring4shell-zero-day |
 | Cisco | AMP | Endpoint | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Secure Email | Mail protection | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Secure Firewall | IPS | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
