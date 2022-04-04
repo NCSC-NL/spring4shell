@@ -68,6 +68,8 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Jamf|Pro||Uses Spring Framework|Vulnerable||https://community.jamf.com/t5/jamf-pro/spring4shell-vulnerability/td-p/262584|
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
+|NetApp|Multiple products||Uses Spring Framework|Under investigation||https://security.netapp.com/advisory/ntap-20220331-0011/|
+|NetApp|Multiple products||Uses Spring Framework|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220331-0011/|
 |PagerDuty|Rundeck||Uses Spring Framework|Under investigation|||
 |Pulse Secure|Ivanti Pulse Secure||Not applicable|Not Vulnerable||https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB45126/?kA13Z000000L3sW|
 |PTC|WindChill PDMLink|11.1 M020 to 12.1.0.0|Uses Spring Framework|Vulnerable||https://www.ptc.com/en/support/article/cs366379?language=en&posno=1&q=CVE-2022-22965&source=search|
