@@ -50,6 +50,7 @@ This GitHub page contains a list which is kept up-to-date by NCSC-NL. It can pro
 | HAProxy | HAProxy | WAF | https://www.haproxy.com/blog/april-2022-cve-2022-22965-spring4shell-remote-code-execution-mitigation/ |
 | Symantec | multiple products | IPS | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/spring4shell-rce-vuln-java |
 | PaloAltoNetworks | Next-Generation Firewall | IPS | https://unit42.paloaltonetworks.com/cve-2022-22965-springshell/ |
+| PaloAltoNetworks | Prisma Cloud | Endpoint | https://www.paloaltonetworks.com/blog/prisma-cloud/recent-spring-vulnerabilities/ |
 | Trend Micro | Cloud One | IPS | https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US |
 | Trend Micro | Deep Discovery Inspector | IDS/IPS | https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US |
 | Rapid7 | tCell | WAF | https://www.rapid7.com/blog/post/2022/03/30/spring4shell-zero-day-vulnerability-in-spring-framework/#april120223pmedt |
