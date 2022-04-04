@@ -110,6 +110,11 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Pulse Secure|Ivanti Pulse Secure||Not applicable|Not Vulnerable||https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB45126/?kA13Z000000L3sW|
 |PTC|WindChill PDMLink|11.1 M020 to 12.1.0.0|Uses Spring Framework|Vulnerable||https://www.ptc.com/en/support/article/cs366379?language=en&posno=1&q=CVE-2022-22965&source=search|
 |PTC|FlexPLM|11.1 M010 to 12.0.3.0|Uses Spring Framework|Vulnerable||https://www.ptc.com/en/support/article/cs366379?language=en&posno=1&q=CVE-2022-22965&source=search|
+|Red Hat|Descision Manager |7||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
+|Red Hat|JBoss A-MQ 6|6-7||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
+|Red Hat|JBoss Fuse 6|6-7||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
+|Red Hat|Process Automation |7||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
+|Red Hat|Virtualization|4||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|Under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
 |Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
