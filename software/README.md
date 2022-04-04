@@ -13,6 +13,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Atlassian|Crucible||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Atlassian|Fisheye||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Blueriq|Blueriq||Not applicable|Vulnerable||https://www.blueriq.com/actueel/maatregelen-cve22950-22963-22965|
+|Cisco|Multiple products||Not applicable|Under investigation|https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-java-spring-rce-Zx9GUc67|
 |Commvault|Multiple products||Not applicable|Not Vulnerable||https://documentation.commvault.com/v11/essential/146231_security_vulnerability_and_reporting.html#cv2022041-spring-framework|
 |Extreme Networks|VOSS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|SLX-OS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
