@@ -4,16 +4,16 @@ This page contains an overview of SaaS services (un)affected by the Spring4shell
 
 | Supplier | Service | Status Spring4shell | Confirmed vulnerable / under investigation / not vulnerable | Notes | Links |
 |:---------|:--------|:-------------------:|:--------------------:|:------|------:|
-| AFAS | AFAS | | Not vulnerable | Vendor email: AFAS Online maakt geen gebruik van Java en/of de kwetsbare bibliotheken die bekend zijn in het kader van 'Spring4Shell'. We volgen de ontwikkelingen en nemen gepaste actie waar nodig. | |
-| Blendr.io | Blendr.io | | Not vulnerable | Vendor email: Onze code stack steunt niet op java, dus er is geen vulnerability. | |
+| AFAS | AFAS | | Not vulnerable | Verified by vendor (mail) | |
+| Blendr.io | Blendr.io | | Not vulnerable | Verified by vendor (mail) | |
 | Coveo | Coveo | | | Not vulnerable | Verified by vendor (mail) | |
 | Hubper | Hubper | | Not vulnerable | Verified by vendor (mail) | |
 | Jamf | Jamf Pro / Jamf Connect | | Not vulnerable | 10.37.2 and 10.36.4 patched | https://community.jamf.com/t5/jamf-pro/spring4shell-vulnerability/td-p/262584 |
 | LucidChart | LucidChart | | Under investigation | Verified by vendor (mail) | |
 | Miro | Miro | | Not vulnerable | Verified by vendor (mail) | |
 | Okta | Okta, Okta Workflows, Auth0, Okta Agents, Okta Access Gateway | | Not vulnerable | | https://sec.okta.com/articles/2022/04/oktas-response-cve-2022-22965-spring4shell | 
-| SalesForce | Tableau online | On premise version uses Spring, Tomcat and JDK9 | Under investigation | Schuberg Philis engineers suspect this to be vulnerable as the on premise version has the "right" versions of Tomcat and Spring in the affected configuration. No word from vendor yet | https://kb.tableau.com/articles/issue/Spring4Shell-CVE-2022-22963-and-CVE-2022-22965 and https://status.salesforce.com/generalmessages/884 |
-| SentinelOne | SentinelOne | | Not vulnerable | SentinelOne has conducted an internal review to assess the impact of the new zero-day vulnerability in the Spring Core Java framework called Spring4Shell (CVE-2022-22965). With the information published up to this date we have concluded that none of our products are vulnerable to the new Spring4Shell. We will continue to follow the development and research on the vulnerability for published updates and monitor our applications and infrastructure. | |
-| Solutions2Share | Teams Manager | | Not vulnerable | Vendor email: "Good morning we don't use that in our application, so there is no impact for us." | |
-| Templafy | Templafy | | Not vulnerable | Thank you for reaching out to Templafy support, I don't believe you need to worry about this vulnerability because Templafy does not have any Java code, neither on our servers, nor deployed to clients. | |
+| SalesForce | Tableau online | On premise version uses Spring, Tomcat and JDK9 | Under investigation | Still under investiagtion by vendor (mail) | https://kb.tableau.com/articles/issue/Spring4Shell-CVE-2022-22963-and-CVE-2022-22965 and https://status.salesforce.com/generalmessages/884 |
+| SentinelOne | SentinelOne | | Not vulnerable | Verified by vendor (mail) | |
+| Solutions2Share | Teams Manager | | Not vulnerable | Verified by vendor (mail) | |
+| Templafy | Templafy | | Not vulnerable | Verified by vendor (mail) | |
 | Unit4 | Intuo (unit4 talent managment) | | Not vulnerable | Verified by vendor (mail) | |
