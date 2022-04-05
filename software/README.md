@@ -14,7 +14,10 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Atlassian|Fisheye||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Blueriq|Blueriq||Not applicable|Vulnerable||https://www.blueriq.com/actueel/maatregelen-cve22950-22963-22965|
 |Cisco|Multiple products||Not applicable|Under investigation||https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-java-spring-rce-Zx9GUc67|
+|Cloudian|Hyperstore|<=7.3.3 and <=7.4.0||Vulnerable||https://cloudian-support.force.com/s/article/SECURITY-CVE-2022-22965-Spring-Framework-RCE-via-Data-Binding-on-JDK-9|
+|Cloudian|Hyperstore|>7.3.3 and >7.4.0||Not vulnerable||https://cloudian-support.force.com/s/article/SECURITY-CVE-2022-22965-Spring-Framework-RCE-via-Data-Binding-on-JDK-9|
 |Commvault|Multiple products||Not applicable|Not Vulnerable||https://documentation.commvault.com/v11/essential/146231_security_vulnerability_and_reporting.html#cv2022041-spring-framework|
+|Elastic|Elastic Search and multiple others||Not applicable|Not vulnerable||https://discuss.elastic.co/t/spring4shell-spring-framework-remote-code-execution-vulnerability/301229|
 |Extreme Networks|VOSS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|SLX-OS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|Network OS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
@@ -108,6 +111,8 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |McAfee|ePolicy|5.x|Not Vulnerable|||https://kc.mcafee.com/corporate/index?page=content&id=KB95454&locale=en_US|
 |Microfocus|Vertica Server||Not applicable|Not Vulnerable||https://portal.microfocus.com/s/article/KM000005107?language=en_US|
+|MicroStrategy|MicroStrategy 2021|Below 5.3.18 or 5.2.20||Vulnerable||https://community.microstrategy.com/s/article/MicroStrategy-s-response-to-the-Spring-Framework-Remote-Code-Execution-Vulnerability?language=en_US|
+|MicroStrategy|MicroStrategy 2021|5.3.18 or 5.2.20 or higher||Not vulnerable||https://community.microstrategy.com/s/article/MicroStrategy-s-response-to-the-Spring-Framework-Remote-Code-Execution-Vulnerability?language=en_US|
 |NetApp|Multiple products||Uses Spring Framework|Under investigation||https://security.netapp.com/advisory/ntap-20220331-0011/|
 |NetApp|Multiple products||Uses Spring Framework|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220331-0011/|
 |PagerDuty|Rundeck||Uses Spring Framework|Under investigation|||
@@ -119,12 +124,14 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Red Hat|JBoss Fuse 6|6-7||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
 |Red Hat|Process Automation |7||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
 |Red Hat|Virtualization|4||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
-|Salesforce|Tableau Server||Uses Spring Framework|Under investigation||https://kb.tableau.com/articles/Issue/Spring4Shell-CVE-2022-22963-and-CVE-2022-22965|
+|Salesforce|Tableau Server||Uses Spring Framework, Tomcat and JDK9|Under investigation||https://kb.tableau.com/articles/Issue/Spring4Shell-CVE-2022-22963-and-CVE-2022-22965|
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|Under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
 |Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
+|SonarSource|SonarCube|n/a|Not vulnerable||https://community.sonarsource.com/t/sonarqube-sonarcloud-and-spring4shell/60926|
 |Sonicwall|Multiple products||Not applicable|Not Vulnerable||https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0005|
+|Tibco|Multiple products|||All of the above||https://www.tibco.com/support/notices/spring-framework-vulnerability-update|
 |Trend Micro |All product||Unknown|Under investigation||https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US|
 |Veritas|Backup Exec|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
 |Veritas|Desktop Laptop Option|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
