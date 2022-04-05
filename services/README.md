@@ -3,7 +3,7 @@
 This page contains an overview of SaaS services (un)affected by the Spring4shell vulnerabilities. NCSC-NL and partners are attempting to maintain a list of all known vulnerable and not vulnerable software. Listed software is paired with specific information regarding which version contains the security fixes and which software still requires fixes. Please note that this vulnerability may also occur in custom software developed within your organisation. These occurrences are not registered in this overview.
 
 | Supplier | Service | Status Spring4shell | Confirmed vulnerable / under investigation / not vulnerable | Notes | Links |
-|:---------|:--------|:-------------------:|:--------------------:|:--------------------:|:------|------:|
+|:---------|:--------|:-------------------:|:--------------------:|:------|------:|
 | AFAS | AFAS | | Not vulnerable | Vendor email: AFAS Online maakt geen gebruik van Java en/of de kwetsbare bibliotheken die bekend zijn in het kader van 'Spring4Shell'. We volgen de ontwikkelingen en nemen gepaste actie waar nodig. | |
 
 | Blendr.io | Blendr.io | | Not vulnerable | Vendor email: Onze code stack steunt niet op java, dus er is geen vulnerability. | |
