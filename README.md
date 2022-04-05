@@ -39,7 +39,6 @@ This GitHub page contains a list which is kept up-to-date by NCSC-NL. It can pro
 | Cisco | AMP | Endpoint | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Secure Email | Mail protection | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Secure Firewall | IPS | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
-| Cisco | SNORT (SID 30790-30793, 59388, and 59416) | IDS/IPS | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Malware Analytics | Malware Analysis | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Secure Web Appliance | WAF | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cloudflare | WAF | WAF | https://blog.cloudflare.com/waf-mitigations-sping4shell/ |
@@ -87,6 +86,7 @@ Next to scanning tools, the following detection rulesets and queries can help to
 |Yara rules - Neo23x0|[https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)|
 |Splunk queries - West-wind|[https://github.com/west-wind/Spring4Shell-Detection](https://github.com/west-wind/Spring4Shell-Detection)|
 |ET Suricata rules (EXPLOIT Possible SpringCore RCE/Spring4Shell)|[https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-exploit.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-exploit.rules)|
+|Cisco SNORT (SID 30790-30793, 59388, and 59416) | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 
 ## Contributions welcome
 
