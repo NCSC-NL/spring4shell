@@ -5,6 +5,7 @@ This page contains an overview of SaaS services (un)affected by the Spring4shell
 | Supplier | Service | Status Spring4shell | Confirmed vulnerable / under investigation / not vulnerable | Notes | Links |
 |:---------|:--------|:-------------------:|:--------------------:|:------|------:|
 | AFAS | AFAS | | Not vulnerable | Vendor email: AFAS Online maakt geen gebruik van Java en/of de kwetsbare bibliotheken die bekend zijn in het kader van 'Spring4Shell'. We volgen de ontwikkelingen en nemen gepaste actie waar nodig. | |
+| AWS | Multiple | | Not vulererable | [vendor statement](mails/aws.md) | |
 | Blendr.io | Blendr.io | | Not vulnerable | Vendor email: Onze code stack steunt niet op java, dus er is geen vulnerability. | |
 | Coveo | Coveo | | | Not vulnerable | [vendor email](mails/coveo.md) | |
 | Hubper | Hubper | | Not vulnerable | [vendor email](mails/hubper.md) | |
