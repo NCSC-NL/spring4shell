@@ -216,6 +216,19 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |NetApp|StorageGRID Baseboard Management Controller (BMC)||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
 |NetApp|System Manager 9.x||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
 |PagerDuty|Rundeck||Uses Spring Framework|Under investigation|||
+|PaloAlto Networks|Cortex XDR Agent||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|Cortex XSOAR||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|Exact Data Matching CLI||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|Expanse||Not applicable||Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|Expedition Migration Tool||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|GlobalProtect App||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|IoT Security||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|Okyo Garde||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|Palo Alto Networks App for Splunk||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|PAN-OS||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|Prisma Cloud Compute||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|User-ID Agent||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
+|PaloAlto Networks|WildFire Appliance (WF-500)||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
 |Pulse Secure|Ivanti Pulse Secure||Not applicable|Not Vulnerable||https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB45126/?kA13Z000000L3sW|
 |PTC|WindChill PDMLink|11.1 M020 to 12.1.0.0|Uses Spring Framework|Vulnerable||https://www.ptc.com/en/support/article/cs366379?language=en&posno=1&q=CVE-2022-22965&source=search|
 |PTC|FlexPLM|11.1 M010 to 12.0.3.0|Uses Spring Framework|Vulnerable||https://www.ptc.com/en/support/article/cs366379?language=en&posno=1&q=CVE-2022-22965&source=search|
