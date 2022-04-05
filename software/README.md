@@ -110,6 +110,108 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Microfocus|Vertica Server||Not applicable|Not Vulnerable||https://portal.microfocus.com/s/article/KM000005107?language=en_US|
 |NetApp|Multiple products||Uses Spring Framework|Under investigation||https://security.netapp.com/advisory/ntap-20220331-0011/|
 |NetApp|Multiple products||Uses Spring Framework|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220331-0011/|
+|NetApp|Active IQ Unified Manager for Linux||Not applicable|Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Active IQ Unified Manager for Microsoft Windows||Not applicable|Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Active IQ Unified Manager for VMware vSphere||Not applicable|Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|OnCommand Insight||Not applicable|Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SnapManager for Oracle||Not applicable|Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SnapManager for SAP||Not applicable|Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|7-Mode Transition Tool||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Brocade SAN Navigator (SANnav)||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Cloud Secure Agent||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Element Plug-in for vCenter Server||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Management Services for Element Software and NetApp HCI||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|MetroCluster Tiebreaker for clustered Data ONTAP||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp SolidFire Plug-in for vRealize Orchestrator (SolidFire vRO)||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|ONTAP Tools for VMware vSphere||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Snap Creator Framework||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SnapCenter Plug-in for VMware vSphere||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SnapManager for Hyper-V||Not applicable|Under investigation||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|AFF Baseboard Management Controller (BMC) - A700s||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|AFF Baseboard Management Controller (BMC) - A900||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|ATTO FibreBridge - 6500N||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|ATTO FibreBridge - 7500N||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|ATTO FibreBridge - 7600N||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Active IQ mobile app||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Astra Control Center - NetApp Kubernetes Monitoring Operator||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Astra Trident||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Astra Trident Autosupport||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|BeeGFS CSI Driver||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Brocade Fabric Operating System Firmware||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Cloud Data Sense||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Cloud Insights Acquisition Unit||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Cloud Insights Telegraf Agent||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Cloud Manager||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Cloud Volumes ONTAP Mediator||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Clustered Data ONTAP||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Clustered Data ONTAP Antivirus Connector||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|E-Series BIOS||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|E-Series SANtricity OS Controller Software 11.x||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|E-Series SANtricity Storage Manager||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|E-Series SANtricity Web Services (REST API) for Web Services Proxy||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Element .NET SDK||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Element HealthTools||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Element JAVA SDK||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Element Powershell Tools||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Element Python SDK||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|FAS/AFF BIOS||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|FAS/AFF Baseboard Management Controller (BMC) - 8300/8700/A400||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|FAS/AFF Baseboard Management Controller (BMC) - A250/500f||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|FAS/AFF Baseboard Management Controller (BMC) - A320/C190/A220/FAS2720/FAS2750/A800||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Global File Cache||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Host Utilities - SAN for Linux||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Host Utilities - SAN for Windows||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Inventory Collect Tool||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Multipath I/O (SANtricity DSM for Windows MPIO)||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp Cloud Backup OST Plug-in (formerly AltaVault OST Plug-in)||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp Converged Systems Advisor Agent||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp E-Series BeeGFS Collection||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp E-Series Host Collection||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp E-Series Performance Analyzer||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp E-Series SANtricity Collection||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp HCI Baseboard Management Controller (BMC) - H300S/H500S/H700S/H300E/H500E/H700E/H410S||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp HCI Baseboard Management Controller (BMC) - H410C||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp HCI Baseboard Management Controller (BMC) - H610C||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp HCI Baseboard Management Controller (BMC) - H610S||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp HCI Baseboard Management Controller (BMC) - H615C||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp HCI Compute Node (Bootstrap OS)||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp HCI Compute Node BIOS||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp HCI Storage Node BIOS||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp Kubernetes Monitoring Operator||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp Manageability SDK||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp NFS Plug-in for VMware VAAI||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp SANtricity SMI-S Provider||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp SMI-S Provider||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp SolidFire & HCI Management Node||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp SolidFire BIOS||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp SolidFire, Enterprise SDS & HCI Storage Node (Element Software)||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp Storage Encryption||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp Virtual Desktop Service (VDS)||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp XCP NFS||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NetApp XCP SMB||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|NextGen API||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|ONTAP Mediator||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|ONTAP Select Deploy administration utility||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|OnCommand Workflow Automation||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Open Systems SnapVault Agent||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SANtricity Storage Plugin for vCenter||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SANtricity Unified Manager||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SAS Firmware||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SRA Plugin for Linux||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SRA Plugin for Windows||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Service Processor||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Single Mailbox Recovery||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SnapCenter||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SnapDrive for Unix||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SnapManager for Oracle Windows||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|SolidFire Storage Replication Adapter||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|Storage Services Connector||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|StorageGRID (formerly StorageGRID Webscale)||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|StorageGRID BIOS SG1000/SG100||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|StorageGRID BIOS SG5660/SG5612/SG5760/SG5712||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|StorageGRID BIOS SG6060/SGF6024||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|StorageGRID Baseboard Management Controller (BMC)||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|NetApp|System Manager 9.x||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
 |PagerDuty|Rundeck||Uses Spring Framework|Under investigation|||
 |Pulse Secure|Ivanti Pulse Secure||Not applicable|Not Vulnerable||https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB45126/?kA13Z000000L3sW|
 |PTC|WindChill PDMLink|11.1 M020 to 12.1.0.0|Uses Spring Framework|Vulnerable||https://www.ptc.com/en/support/article/cs366379?language=en&posno=1&q=CVE-2022-22965&source=search|
