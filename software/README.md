@@ -108,8 +108,6 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |McAfee|ePolicy|5.x|Not Vulnerable|||https://kc.mcafee.com/corporate/index?page=content&id=KB95454&locale=en_US|
 |Microfocus|Vertica Server||Not applicable|Not Vulnerable||https://portal.microfocus.com/s/article/KM000005107?language=en_US|
-|NetApp|Multiple products||Uses Spring Framework|Under investigation||https://security.netapp.com/advisory/ntap-20220331-0011/|
-|NetApp|Multiple products||Uses Spring Framework|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220331-0011/|
 |NetApp|Active IQ Unified Manager for Linux||Not applicable|Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
 |NetApp|Active IQ Unified Manager for Microsoft Windows||Not applicable|Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
 |NetApp|Active IQ Unified Manager for VMware vSphere||Not applicable|Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
