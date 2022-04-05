@@ -106,6 +106,21 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Fortinet|FortiNAC|Not applicable||Not Vulnerable||https://fortiguard.fortinet.com/psirt/FG-IR-22-072|
 |GeoServer|Geoserver||Uses Spring Framework|Not Vulnerable||https://geoserver.org/announcements/vulnerability/2022/04/01/spring.html|
 |Okta|Okta services||Not applicable|Not Vulnerable||https://sec.okta.com/articles/2022/04/oktas-response-cve-2022-22965-spring4shell|
+| Imprivata | Confirm ID Cloud | | | under investigation | | |
+| Imprivata | Confirm ID (All on premises components | | | under investigation | | |
+| Imprivata | Cortext (All on premises components) | | | not vulnerable | | |
+| Imprivata | Cortext Cloud | | | not vulnerable | | |
+| Imprivata | GroundControl Launchpad | | | not vulnerable | | |
+| Imprivata | GroundControl Cloud | | | not vulnerable | | |
+| Imprivata | FairWarning | | | not vulnerable | | |
+| Imprivata | FairWaring API | | | not vulnerable | | |
+| Imprivata | Identity Governance | | | not vulnerable | | |
+| Imprivata | Imprivata ID | | | not vulnerable | | |
+| Imprivata | Mobile Device Access | | | not vulnerable | | |
+| Imprivata | OneSign Cloud | | | under investigation | | |
+| Imprivata | OneSign Cloud (All on premisses components) | | | under investigation | | |
+| Imprivata | PatientSecure | | | not vulnerable | | |
+| Imprivata | Privileged Access Management | | | under investigation | | |
 |Jamf|Pro||Uses Spring Framework|Vulnerable||https://community.jamf.com/t5/jamf-pro/spring4shell-vulnerability/td-p/262584|
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
@@ -277,3 +292,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Kofax|SafeCom||Uses Spring Framework|Not vulnerable||https://knowledge.kofax.com/General_Support/General_Troubleshooting/Kofax_products_and_Spring4Shell_vulnerability_information|
 |Kofax|SignDoc||Uses Spring Framework|Under investigation||https://knowledge.kofax.com/General_Support/General_Troubleshooting/Kofax_products_and_Spring4Shell_vulnerability_information|
 |Kofax|Process Director for Accounts Payable||Uses Spring Framework|Not vulnerable||https://knowledge.kofax.com/General_Support/General_Troubleshooting/Kofax_products_and_Spring4Shell_vulnerability_information|
+| ZorgTTP | Encryptiedienst TRES ||Not applicable | not vulnerable ||https://www.zorgttp.nl/spring4shell-kwetsbaarheid-geen-impact-op-zorgttp-dienstverlening/
+| ZorgTTP | PVM ||Uses Spring Framework | not vulnerable ||https://www.zorgttp.nl/spring4shell-kwetsbaarheid-geen-impact-op-zorgttp-dienstverlening/
+| ZorgTTP | CMT ||Uses Spring Framework | not vulnerable ||https://www.zorgttp.nl/spring4shell-kwetsbaarheid-geen-impact-op-zorgttp-dienstverlening/
+| ZorgTTP | DRM ||Uses Spring Framework | not vulnerable ||https://www.zorgttp.nl/spring4shell-kwetsbaarheid-geen-impact-op-zorgttp-dienstverlening/
