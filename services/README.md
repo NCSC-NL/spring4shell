@@ -4,6 +4,7 @@ This page contains an overview of SaaS services (un)affected by the Spring4shell
 
 | Supplier | Service | Status Spring4shell | Confirmed vulnerable / under investigation / not vulnerable | Notes | Links |
 |:---------|:--------|:-------------------:|:--------------------:|:--------------------:|:------|------:|
+
 | AFAS | AFAS | | Not vulnerable | Vendor email: `AFAS Online maakt geen gebruik van Java en/of de kwetsbare bibliotheken die bekend zijn in het kader van 'Spring4Shell'. We volgen de ontwikkelingen en nemen gepaste actie waar nodig.` | |
 | Blendr.io | Blendr.io | | Not vulnerable | Vendor email: `Onze code stack steunt niet op java, dus er is geen vulnerability.` | |
 | Coveo | Coveo | Not vulnerable | To answer your question, Coveo is unaffected and not vulnerable to the RCE vulnerability in the Spring Framework described here.<br />However, following our investigation, and due to the nature of the vulnerability, our team is currently performing Spring upgrades everywhere it is used and estimates all necessary work to be completed by April 8th, 2022.<br />If you have anymore questions or concerns regarding this issue, please let us know. Otherwise, if you are satisfied with this response, please let us know if you comfortable with closing this case. | |
