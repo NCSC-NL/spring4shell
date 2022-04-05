@@ -10,6 +10,7 @@ Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965
 
 - README.md: contains general information and detection and mitigation measures
 - [software/README.md](software/README.md): contains a list of known vulnerable and not vulnerable software. 
+- [services/README.md](software/README.md): contains a list of known vulnerable and not vulnerable software. 
 
 **NCSC-NL has published a HIGH/HIGH advisory for the Spring4shell vulnerability. Normally we would update a HIGH/HIGH advisory for vulnerable software packages, however due to the expected number of updates we have created a list of known vulnerable software in the software directory.**
 
@@ -85,6 +86,7 @@ Next to scanning tools, the following detection rulesets and queries can help to
 |:----------------|:----------------|
 |Yara rules - Neo23x0|[https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)|
 |Splunk queries - West-wind|[https://github.com/west-wind/Spring4Shell-Detection](https://github.com/west-wind/Spring4Shell-Detection)|
+|ET Suricata rules (EXPLOIT Possible SpringCore RCE/Spring4Shell)|[https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-exploit.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-exploit.rules)|
 
 ## Contributions welcome
 
