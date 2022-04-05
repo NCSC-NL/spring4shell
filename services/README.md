@@ -5,6 +5,7 @@ This page contains an overview of SaaS services (un)affected by the Spring4shell
 | Supplier | Service | Status Spring4shell | Confirmed vulnerable / under investigation / not vulnerable | Notes | Links |
 |:---------|:--------|:-------------------:|:--------------------:|:------|------:|
 | AFAS | AFAS | | Not vulnerable | Verified by vendor (mail) | |
+| AWS | Multiple | | Not vulererable | Verified by vendor (mail) | |
 | Blendr.io | Blendr.io | | Not vulnerable | Verified by vendor (mail) | |
 | Coveo | Coveo | | | Not vulnerable | Verified by vendor (mail) | |
 | Hubper | Hubper | | Not vulnerable | Verified by vendor (mail) | |
