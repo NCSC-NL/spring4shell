@@ -18,6 +18,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Cloudian|Hyperstore|>7.3.3 and >7.4.0||Not vulnerable||https://cloudian-support.force.com/s/article/SECURITY-CVE-2022-22965-Spring-Framework-RCE-via-Data-Binding-on-JDK-9|
 |Commvault|Multiple products||Not applicable|Not Vulnerable||https://documentation.commvault.com/v11/essential/146231_security_vulnerability_and_reporting.html#cv2022041-spring-framework|
 |Elastic|Elastic Search and multiple others||Not applicable|Not vulnerable||https://discuss.elastic.co/t/spring4shell-spring-framework-remote-code-execution-vulnerability/301229|
+|Enovation Group|Multiple products / Cloverleaf||Not applicable|Not Vulnerable||https://enovationgroup.com/nl/nieuws/spring4shell-vulnerability-cve-2022-22965/|
 |Extreme Networks|VOSS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|SLX-OS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
 |Extreme Networks|Network OS||Not applicable|Not Vulnerable||https://extremeportal.force.com/ExtrArticleDetail?an=000103717|
