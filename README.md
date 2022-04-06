@@ -79,10 +79,18 @@ This table contains an overview of local and remote scanning tools regarding the
 |gpiechnik2 - Spring4shell scanner (nse script)|[https://github.com/gpiechnik2/nmap-spring4shell](https://github.com/gpiechnik2/nmap-spring4shell)|
 |OWASP ZAP Spring4shell rule|[https://www.zaproxy.org/blog/2022-04-04-spring4shell-detection-with-zap/](https://www.zaproxy.org/blog/2022-04-04-spring4shell-detection-with-zap/)|
 
-The following IPs were observed as scanning IPs for this vulnerability: [Scanning IPs](https://www.greynoise.io/viz/tag/spring-core-rce-attempt)
+The following **IPs** were observed as scanning IPs for this vulnerability: 
+| Note     | Links |
+|:----------------|:----------------|
+|GreyNoise|[Scanning IPs](https://www.greynoise.io/viz/tag/spring-core-rce-attempt)
 
-Next to scanning tools, the following detection rulesets and queries can help to find exploitation/webshells in your network.
+The following **hashes** were observed:
+| Note     | Links |
+|:----------------|:----------------|
+|Nextron-systems|[Spring-core-rce-attempt](https://valhalla.nextron-systems.com/info/rule/EXPL_POC_SpringCore_0day_Indicators_Mar22_1) |
+|Nextron-systems|[Spring-core-after-exploitation](https://valhalla.nextron-systems.com/info/rule/EXPL_POC_SpringCore_0day_Webshell_Mar22_1) |
 
+The following detection rules are available:
 | Note     | Links |
 |:----------------|:----------------|
 |Yara rules - Neo23x0|[https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)|
