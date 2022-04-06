@@ -254,7 +254,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Red Hat|JBoss Fuse 6|6-7||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
 |Red Hat|Process Automation |7||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
 |Red Hat|Virtualization|4||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
-|Salesforce|Tableau Server||Uses Spring Framework, Tomcat and JDK9|Under investigation||https://kb.tableau.com/articles/Issue/Spring4Shell-CVE-2022-22963-and-CVE-2022-22965|
+|Salesforce|Tableau Server||Uses Spring Framework, Tomcat and JDK9|Not vulnerable||https://kb.tableau.com/articles/Issue/Spring4Shell-CVE-2022-22963-and-CVE-2022-22965|
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|Under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
 |Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
