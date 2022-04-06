@@ -7,7 +7,7 @@ This page contains an overview of SaaS services (un)affected by the Spring4shell
 | AFAS | AFAS | | Not vulnerable | Verified by vendor (mail) | |
 | AWS | Multiple | | Not vulererable | Verified by vendor (mail) | |
 | Blendr.io | Blendr.io | | Not vulnerable | Verified by vendor (mail) | |
-| Coveo | Coveo | | | Not vulnerable | Verified by vendor (mail) | |
+| Coveo | Coveo | | Not vulnerable | Verified by vendor (mail) | |
 | Hubper | Hubper | | Not vulnerable | Verified by vendor (mail) | |
 | Jamf | Jamf Pro / Jamf Connect | | Not vulnerable | 10.37.2 and 10.36.4 patched | https://community.jamf.com/t5/jamf-pro/spring4shell-vulnerability/td-p/262584 |
 | LucidChart | LucidChart | | Under investigation | Verified by vendor (mail) | |
