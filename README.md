@@ -50,6 +50,8 @@ This GitHub page contains a list which is kept up-to-date by NCSC-NL. It can pro
 | Fortinet | FortiAnalyzer | Outbreak Detection | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability |
 | HAProxy | HAProxy | WAF | https://www.haproxy.com/blog/april-2022-cve-2022-22965-spring4shell-remote-code-execution-mitigation/ |
 | Symantec | multiple products | IPS | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/spring4shell-rce-vuln-java |
+| Microsoft | Azure Firewall Premium | IPS | https://www.microsoft.com/security/blog/2022/04/04/springshell-rce-vulnerability-guidance-for-protecting-against-and-detecting-cve-2022-22965/ |
+| Microsoft | Defender / Sentinel | Endpoint | https://www.microsoft.com/security/blog/2022/04/04/springshell-rce-vulnerability-guidance-for-protecting-against-and-detecting-cve-2022-22965/ |
 | PaloAltoNetworks | Next-Generation Firewall | IPS | https://unit42.paloaltonetworks.com/cve-2022-22965-springshell/ |
 | PaloAltoNetworks | Prisma Cloud | Endpoint | https://www.paloaltonetworks.com/blog/prisma-cloud/recent-spring-vulnerabilities/ |
 | Trend Micro | Cloud One | IPS | https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US |
