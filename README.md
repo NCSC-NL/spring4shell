@@ -41,6 +41,7 @@ This GitHub page contains a list which is kept up-to-date by NCSC-NL. It can pro
 | Cisco | Secure Firewall | IPS | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Malware Analytics | Malware Analysis | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
 | Cisco | Secure Web Appliance | WAF | https://blog.talosintelligence.com/2022/03/threat-advisory-spring4shell.html |
+| Citrix | WAF | WAF | https://www.citrix.com/blogs/2022/04/01/guidance-for-reducing-spring4shell-security-vulnerability-risk-with-citrix-waf/ |
 | Cloudflare | WAF | WAF | https://blog.cloudflare.com/waf-mitigations-sping4shell/ |
 | F5 | Big-IP | WAF | https://support.f5.com/csp/article/K24912123 
 | Fortinet | FortiGate | IPS | https://www.fortiguard.com/outbreak-alert/spring4shell-vulnerability|
