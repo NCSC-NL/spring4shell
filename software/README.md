@@ -264,7 +264,8 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Sonicwall|Multiple products||Not applicable|Not Vulnerable||https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0005|
 |SonarSource|SonarCube||n/a|Not vulnerable||https://community.sonarsource.com/t/sonarqube-sonarcloud-and-spring4shell/60926|
 |Trend Micro |All product||Unknown|Under investigation||https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US|
-|Tibco|Multiple products|||All of the above||https://www.tibco.com/support/notices/spring-framework-vulnerability-update|
+|Tibco|Multiple products|||Not Vulnerabl||https://www.tibco.com/support/notices/spring-framework-vulnerability-update|
+|Ubiquiti|Multiple products|||Not Vulnerabl||https://community.ui.com/releases/Statement-Regarding-Spring-CVE-2022-22965-2022-22950-and-2022-22963-001/19b2dc6f-4c36-436e-bd38-59ea0d6f1cb5|
 |Veritas|Backup Exec|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
 |Veritas|Desktop Laptop Option|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
 |Veritas|Enterprise Vault|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
