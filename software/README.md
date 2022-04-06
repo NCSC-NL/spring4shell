@@ -282,10 +282,10 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Veritas|NetBackup IT Analytics (Previously APTARE)|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
 |Veritas|NetBackup OpCenter|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
 |Veritas|VRP|Not applicable||Not Vulnerable||https://www.veritas.com/content/support/en_US/security/VTS22-006|
-|VMware|Tanzu Application Service for VMs|2.11-2.13||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
-|VMware|Tanzu Application Service|2.10||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
-|VMware|Tanzu Operations Manager|2.8-2.10||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
-|VMware|TKGI|1.11-1.13||Vulnerable||https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
+|VMware|Tanzu Application Service for VMs|2.11-2.13||Vulnerable|[Potentially actively exploited](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)|https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
+|VMware|Tanzu Application Service|2.10||Vulnerable|[Potentially actively exploited](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)|https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
+|VMware|Tanzu Operations Manager|2.8-2.10||Vulnerable|[Potentially actively exploited](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)|https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
+|VMware|TKGI|1.11-1.13||Vulnerable|[Potentially actively exploited](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)|https://www.vmware.com/security/advisories/VMSA-2022-0010.html|
 |Kofax|Kofax Communication Manager||Uses Spring Framework|Not Vulnerable||https://community.kofax.com/s/question/0D53m00006FG8NVCA1/communications-manager-release-announcements?language=en_US|
 |Kofax|Device Web Service||Uses Spring Framework|Not Vulnerable||https://community.kofax.com/s/question/0D53m00006w0My3CAE/controlsuite-release-announcements?language=en_US|
 |Kofax|Invoice Portal||Uses Spring Framework|Not vulnerable||https://community.kofax.com/s/question/0D53m00006FG8RtCAL/readsoft-release-announcements?language=en_US|
