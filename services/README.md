@@ -18,3 +18,4 @@ This page contains an overview of SaaS services (un)affected by the Spring4shell
 | Solutions2Share | Teams Manager | | Not vulnerable | Verified by vendor (mail) | |
 | Templafy | Templafy | | Not vulnerable | Verified by vendor (mail) | |
 | Unit4 | Intuo (unit4 talent managment) | | Not vulnerable | Verified by vendor (mail) | |
+| Laserfiche | Laserfiche cloud | | Not Vulnerable | | https://support.laserfiche.com/kb/1014369/spring-framework-vulnerabilities-cve-2022-22965-cve-2022-22963-cve-2022-22947 |
