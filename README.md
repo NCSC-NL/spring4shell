@@ -3,7 +3,7 @@ Operational information regarding the Spring4Shell vulnerability (CVE-2022-22965
 
 * [NCSC-NL advisory](https://www.ncsc.nl/actueel/advisory?id=NCSC-2022-0221)
 * [Spring.io announcement of vulnerability](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement)
-* [CISA advisory](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/01/spring-releases-security-updates-addressing-spring4shell-and)
+* [CISA advisory](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/01/spring-releases-security-updates-addressing-spring4shell-and) & [CISA known exploited vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 * [CERT Bund advisory](https://www.cert-bund.de/advisoryshort/CB-K22-0377%20UPDATE%202)
 
 ## Repository contents
