@@ -232,6 +232,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |NetApp|StorageGRID BIOS SG6060/SGF6024||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
 |NetApp|StorageGRID Baseboard Management Controller (BMC)||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
 |NetApp|System Manager 9.x||Not applicable|Not Vulnerable||https://security.netapp.com/advisory/ntap-20220401-0001/|
+|Ontotext|GraphDB||Not applicable|Not Vulnerable||https://www.ontotext.com/blog/graphdb-and-cve-2022-22965-aka-spring4shell/|
 |PagerDuty|Rundeck||Uses Spring Framework|Under investigation|||
 |PaloAlto Networks|Cortex XDR Agent||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
 |PaloAlto Networks|Cortex XSOAR||Not applicable|Not Vulnerable||https://security.paloaltonetworks.com/CVE-2022-22963|
