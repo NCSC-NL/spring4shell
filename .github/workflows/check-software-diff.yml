@@ -3,16 +3,12 @@ name: Check software list changes
 # Triggers the workflow on push or pull request events
 on:
   push:
-    paths: 
-        - services/README.md
-        - software/README.md
+    paths: software/README.md
   pull_request:
-    paths: 
-        - services/README.md
-        - software/README.md
+    paths: software/README.md
 
 env:
-  list: "software services"
+  list: "software"
 
 jobs:
   checker:
