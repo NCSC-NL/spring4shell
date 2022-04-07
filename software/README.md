@@ -17,6 +17,8 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Cisco|Multiple products||Not applicable|Under investigation||https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-java-spring-rce-Zx9GUc67|
 |Cloudian|Hyperstore|<=7.3.3 and <=7.4.0||Vulnerable||https://cloudian-support.force.com/s/article/SECURITY-CVE-2022-22965-Spring-Framework-RCE-via-Data-Binding-on-JDK-9|
 |Cloudian|Hyperstore|>7.3.3 and >7.4.0||Not vulnerable||https://cloudian-support.force.com/s/article/SECURITY-CVE-2022-22965-Spring-Framework-RCE-via-Data-Binding-on-JDK-9|
+|Cloudfoundry|UAA Release|74.2.0 – 75.17.0||Vulnerable||https://www.cloudfoundry.org/blog/cve-2022-22965-uaa-affected-by-spring-framework-rce-via-data-binding-on-jdk-9/|
+|Cloudfoundry|CF Deployment|12.1.0||Vulnerable||https://www.cloudfoundry.org/blog/cve-2022-22965-uaa-affected-by-spring-framework-rce-via-data-binding-on-jdk-9/|
 |Commvault|Multiple products||Not applicable|Not Vulnerable||https://documentation.commvault.com/v11/essential/146231_security_vulnerability_and_reporting.html#cv2022041-spring-framework|
 |Elastic|Elastic Search and multiple others||Not applicable|Not vulnerable||https://discuss.elastic.co/t/spring4shell-spring-framework-remote-code-execution-vulnerability/301229|
 |Enovation Group|Multiple products / Cloverleaf||Not applicable|Not Vulnerable||https://enovationgroup.com/nl/nieuws/spring4shell-vulnerability-cve-2022-22965/|
