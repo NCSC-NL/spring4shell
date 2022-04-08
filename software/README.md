@@ -128,6 +128,8 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Jamf|Pro||Uses Spring Framework|Vulnerable||https://community.jamf.com/t5/jamf-pro/spring4shell-vulnerability/td-p/262584|
 |Jenkins|Core and Plugins||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
 |Jenkins|Infrastructure||Not applicable|Not Vulnerable||https://www.jenkins.io/blog/2022/03/31/spring-rce-CVE-2022-22965/|
+|Konica Minolta|Dispatcher Karagon||Uses Spring Framework|Vulnerable|Workaround available|https://service.konicaminolta.eu/csm?id=kb_article_view&sys_kb_id=a99883bbdba64510ab780febd3961952|
+|Konica Minolta|SafeQ|6|Uses Spring Framework|Vulnerable|Workaround available|https://service.konicaminolta.eu/csm?id=kb_article_view&sys_kb_id=d3a91b631baa8dd0f9fe97d19b4bcb67|
 |McAfee|ePolicy|5.x|Not Vulnerable|||https://kc.mcafee.com/corporate/index?page=content&id=KB95454&locale=en_US|
 |Microfocus|Vertica Server||Not applicable|Not Vulnerable||https://portal.microfocus.com/s/article/KM000005107?language=en_US|
 |MicroStrategy|MicroStrategy 2021|Below 5.3.18 or 5.2.20||Vulnerable||https://community.microstrategy.com/s/article/MicroStrategy-s-response-to-the-Spring-Framework-Remote-Code-Execution-Vulnerability?language=en_US|
