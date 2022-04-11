@@ -6,6 +6,8 @@ This page contains an overview of SaaS services (un)affected by the Spring4shell
 |:---------|:--------|:-------------------:|:--------------------:|:------|------:|
 | AFAS | AFAS | | Not vulnerable | Verified by vendor (mail) | |
 | AWS | Multiple | | Not vulererable | Verified by vendor (mail) | |
+|Atlassian|Confluence||Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
+|Atlassian|Jira||Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 | Blendr.io | Blendr.io | | Not vulnerable | Verified by vendor (mail) | |
 | Coveo | Coveo | | Not vulnerable | Verified by vendor (mail) | |
 | Hubper | Hubper | | Not vulnerable | Verified by vendor (mail) | |
