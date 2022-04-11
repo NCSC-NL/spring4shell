@@ -5,8 +5,6 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 | Supplier | Product | Version | Status Spring4shell | Confirmed vulnerable / under investigation / not vulnerable | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:--------------------:|:------|------:|
 |Aruba Networks (HPE)|Multiple products||Not applicable|Not Vulnerable|Advisory ID: ARUBA-PSA-2022-006|https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2022-006.txt|
-|Atlassian|Confluence||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
-|Atlassian|Jira||Uses Spring Framework|Not Vulnerable||https://confluence.atlassian.com/kb/faq-for-cve-2022-22963-cve-2022-22965-1115149136.html|
 |Atlassian|Bamboo Server and Data Center||Uses Spring Framework|Vulnerable|Vulnerable under specific conditions|https://confluence.atlassian.com/kb/faq-for-cve-2022-22965-1115149136.html|
 |Atlassian|Confluence Server and Data Center||Uses Spring Framework|Vulnerable|Vulnerable under specific conditions|https://confluence.atlassian.com/kb/faq-for-cve-2022-22965-1115149136.html|
 |Atlassian|Jira Service Management Server and Data Center||Uses Spring Framework|Vulnerable|Vulnerable under specific conditions|https://confluence.atlassian.com/kb/faq-for-cve-2022-22965-1115149136.html|
