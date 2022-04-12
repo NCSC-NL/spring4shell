@@ -16,6 +16,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Blueriq|Blueriq||Not applicable|Vulnerable||https://www.blueriq.com/actueel/maatregelen-cve22950-22963-22965|
 |BMC|Control-M Application Pack|version 9.0.20|Uses Spring Framework|Vulnerable||https://bmcsites.force.com/casemgmt/sc_KnowledgeArticle?sfdcid=000395541|
 |Cisco|Multiple products||Not applicable|Under investigation||https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-java-spring-rce-Zx9GUc67|
+|CheckPoint|Multiple products||Not applicable|Not Vulnerable||https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk178605&src=securityAlerts|
 |Cloudian|Hyperstore|<=7.3.3 and <=7.4.0||Vulnerable||https://cloudian-support.force.com/s/article/SECURITY-CVE-2022-22965-Spring-Framework-RCE-via-Data-Binding-on-JDK-9|
 |Cloudian|Hyperstore|>7.3.3 and >7.4.0||Not vulnerable||https://cloudian-support.force.com/s/article/SECURITY-CVE-2022-22965-Spring-Framework-RCE-via-Data-Binding-on-JDK-9|
 |Cloudfoundry|UAA Release|74.2.0 – 75.17.0||Vulnerable||https://www.cloudfoundry.org/blog/cve-2022-22965-uaa-affected-by-spring-framework-rce-via-data-binding-on-jdk-9/|
