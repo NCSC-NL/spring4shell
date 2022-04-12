@@ -263,7 +263,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Salesforce|Tableau Server||Uses Spring Framework, Tomcat and JDK9|Not vulnerable||https://kb.tableau.com/articles/Issue/Spring4Shell-CVE-2022-22963-and-CVE-2022-22965|
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|Under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
 |Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
-|Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
+|Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Vulnerable||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Sonicwall|Multiple products||Not applicable|Not Vulnerable||https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0005|
 |SonarSource|SonarCube||n/a|Not vulnerable||https://community.sonarsource.com/t/sonarqube-sonarcloud-and-spring4shell/60926|
