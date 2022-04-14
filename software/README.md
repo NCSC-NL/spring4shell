@@ -263,6 +263,7 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |Red Hat|Process Automation |7||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
 |Red Hat|Virtualization|4||Vulnerable||https://access.redhat.com/security/cve/CVE-2022-22965|
 |Red Hat|Red Hat Integration Camel Extensions for Quarkus|2.2.1-1 security||Vulnerable|https://access.redhat.com/errata/RHSA-2022:1306|
+|SAP|SAP HANA Extended Application Services|||Vulnerable|https://dam.sap.com/mac/app/e/pdf/preview/embed/ucQrx6G?ltr=a&rc=10|
 |Salesforce|Tableau Server||Uses Spring Framework, Tomcat and JDK9|Not vulnerable||https://kb.tableau.com/articles/Issue/Spring4Shell-CVE-2022-22963-and-CVE-2022-22965|
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|Under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
 |Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
