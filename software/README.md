@@ -269,8 +269,8 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |SAP|Powerdesigner Web Portal|16.7||Vulnerable||https://dam.sap.com/mac/app/e/pdf/preview/embed/ucQrx6G?ltr=a&rc=10|
 |Salesforce|Tableau Server||Uses Spring Framework, Tomcat and JDK9|Not vulnerable||https://kb.tableau.com/articles/Issue/Spring4Shell-CVE-2022-22963-and-CVE-2022-22965|
 |Servicenow|ServiceNow instance or MID||Uses Spring Framework|Under investigation||https://community.servicenow.com/community?id=community_question&sys_id=5530394edb2e8950e2adc2230596194f|
-|Siemens|SiPass integrated|||Vulnerable||https://cert-portal.siemens.com/productcert/pdf/ssa-254054.pdf|
-|Siemens|Siveillance Identity|||Vulnerable||https://cert-portal.siemens.com/productcert/pdf/ssa-254054.pdf|
+|Siemens|SiPass integrated|2.8|Uses Spring Framework|Vulnerable||https://cert-portal.siemens.com/productcert/pdf/ssa-254054.pdf|
+|Siemens|Siveillance Identity|1.5|Uses Spring Framework|Vulnerable||https://cert-portal.siemens.com/productcert/pdf/ssa-254054.pdf|
 |Solarwinds|Database Performance Analyzer (DPA)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Security Event Manager (SEM)||Uses Spring Framework|Vulnerable||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
 |Solarwinds|Web Help Desk (WHD)||Uses Spring Framework|Under investigation||https://www.solarwinds.com/trust-center/security-advisories/spring4shell|
